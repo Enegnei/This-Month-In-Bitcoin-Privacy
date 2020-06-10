@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: This Month In Bitcoin Privacy
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: J9Roem
+github_username: Enegnei
 minimal_mistakes_skin: dark
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Janine"
   avatar : "https://camo.githubusercontent.com/5a1e45c57ed5653c5b470b89e4264888625347fe/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313236303631373533343730373034303236302f54484d7972496d4a5f343030783430302e6a7067"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Writing about privacy, publicly."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
