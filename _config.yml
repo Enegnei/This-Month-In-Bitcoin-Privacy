@@ -16,9 +16,10 @@
 title: This Month In Bitcoin Privacy
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A monthly collection of stories and events that catch here eye,
+  specifically regarding privacy enhancements to Bitcoin, the tools or
+  strategies bitcoiners can use to combat threats to their privacy,
+  and protect their right to informational self-determination.
 twitter_username: J9Roem
 github_username: Enegnei
 minimal_mistakes_skin: dark
