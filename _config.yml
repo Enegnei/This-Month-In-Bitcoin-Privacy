@@ -78,7 +78,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Enegnei"
-    - lable: "Podcast"
+    - label: "Podcast"
       icon: "fas fa-tw fa-microphone-alt"
       url: "https://twitter.com/Panopticast"
     - label: "Website"
