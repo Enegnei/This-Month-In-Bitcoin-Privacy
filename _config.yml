@@ -65,6 +65,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "einzelgaengerin@tutanota.de"
     - label: "Ricochet"
       icon: "fas fa-tw fa-comment-dots"
       url: "ricochet:vmnq2j3otggab6ca"
