@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-> **"** Another caped nerd for peace, justice, and privacy. **"** -- Jude Milhon (1993)
+> **"** Another caped nerd for peace, justice, and privacy. **"**
+> — Jude Milhon (1993)
 
 **This Month in Bitcoin Privacy** is a newsletter about privacy-related technology developments, events, and conversations in Bitcoin that catch her eye, as well as the tools or strategies that can be used to combat threats and protect our right to [informational self-determination](https://en.wikipedia.org/wiki/Informational_self-determination).
 
