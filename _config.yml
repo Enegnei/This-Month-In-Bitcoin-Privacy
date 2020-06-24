@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Janine (J9)"
+  name   : "That One Privacy Girl"
   avatar : "https://camo.githubusercontent.com/5a1e45c57ed5653c5b470b89e4264888625347fe/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313236303631373533343730373034303236302f54484d7972496d4a5f343030783430302e6a7067"
   bio    : "Writing about privacy, publicly."
   links:
