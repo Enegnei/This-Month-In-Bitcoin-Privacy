@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
+  - title: "Research"
+    url: /Research/
   - title: "FAQ"
     url: /FAQ/
   - title: "Tags"
