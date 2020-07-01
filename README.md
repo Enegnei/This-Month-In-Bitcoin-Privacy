@@ -10,6 +10,8 @@ At this time I'm not interested in creating a subscribe function through the hon
 4. Join the Keybase team "[tmibp_newsletter](https://keybase.io/team/tmibp_newsletter)." It is open to anyone, and there is a chat room to comment or ask questions. If you engage in the chat, please be mindful of people's attention and only post messages related to the newsletter. If you want to ask me a question or send a tip, you can message me directly.
 5. If you do prefer to be notified about the newsletter by email, send me your email address privately and I will add you to a BCC list. I will only send you one email per month, with a brief greeting and a link to the newsletter. You can 'unsubscribe' at any time. Should I ever end up integrating some kind of privacy-respecting email marketing service in the future, I will not migrate your email address without your explicit permission.
 
++ June 2020: [This Month In Bitcoin Privacy, 1st Edition](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/)
+
 ---
 
 This webpage uses the Minimal Mistakes Jekyll theme by Michael Rose. Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
