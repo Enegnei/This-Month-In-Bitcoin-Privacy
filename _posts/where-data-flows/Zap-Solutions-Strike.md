@@ -1,8 +1,14 @@
 Strike is a consumer and merchant services application that allows people to make and receive Lightning payments with a bank account or debit card. While the [Zap wallet](https://zaphq.io/) is non-custodial and open-source, Strike is a custodial, regulated, and proprietary product of Zap Solutions Inc., entering public beta as of July 2nd 2020.
 
-In his announcement of Strike, founder and CEO Jack Mallers wrote:
+> Zap holds all USD deposits with an FDIC banking partner which services “many cryptocurrency companies,” Mallers said. On the Bitcoin side, all transactions are handled by Zap using the infrastructure it erected for Olympus — so, the original tech stack is still being used, it’s just going on behind the scenes. This work behind the curtain “not only handles application and protocol interaction but also real-time risk management and automated trading/hedging,” Mallers said. ([Bitcoin Magazine](https://bitcoinmagazine.com/articles/with-strike-zap-rethinks-its-olympus-fiat-to-bitcoin-feature))
+
+In his [announcement](https://medium.com/@JimmyMow/announcing-strike-public-beta-325877a79f87) of Strike, founder and CEO Jack Mallers wrote:
 
 > With our public launch, I am unbelievably proud to announce the only requirement for most users to use Strike is your name and phone number. That is not a typo. You read that correctly. We care about you a lot. We care about Bitcoin a lot. We were not going to let regulation get in the way of Bitcoin’s relationship with the world.
+
+The Strike [homepage](https://beta.strike.me/) describes their service as 'private.'
+
+> Strike is your payment proxy to the world. Your information is kept private and never shared.
 
 ### Terms of Service
 
@@ -42,8 +48,30 @@ Cognito is a customer identity and business verification service for compliance 
 
 > By asking for as little as a name and phone number, Cognito can stitch together an identity record from powerful regulated data sources, instantaneously confirming if someone is who they say they are.
 
-While they are not trasparent about how they do this, Cognito does admit that they screen customers of financial services companies "[against lists of high-risk individuals issued by various government agencies around the globe](https://cognitohq.com/what-is-required-to-know-your-customer/)," including Politically Exposed Persons (PEPs) watchlists.
-
-Cognito's privacy policy states that they "use service providers and other third party services to help perform essential business functions on our behalf."
+While they are not trasparent about how they do this, Cognito does admit that they screen customers of financial services companies "[against lists of high-risk individuals issued by various government agencies around the globe](https://cognitohq.com/what-is-required-to-know-your-customer/)," including Politically Exposed Persons (PEPs) watchlists. Cognito's privacy policy states that they "use service providers and other third party services to help perform essential business functions on our behalf."
 
 ## Visa and Plaid
+
+While Visa is not mentioned in either the terms-of-service or privacy policy, the beta launch of Strike included a [press release](https://www.coindesk.com/bitcoin-startup-zap-is-working-with-visa) that Zap Solutions Inc. would be [partnering with Visa](https://partner.visa.com/homepage.html):
+
+> “Zap, Inc. has joined Visa’s Fast Track program,” Mallers said in an email about the startup’s plan for 2020. “Visa works with members of the Fast Track program to help them go to market in the most efficient way possible, providing them support and resources every step of the way.” 
+>
+> He said his primary focus this year is launching a Strike card for consumer app users and integrating Visa Direct into the consumer app, which is the program that makes Venmo payments so fast. There’s no date yet for the upcoming Strike card. 
+>
+> “They [Visa] are a partner for our consumer issuance offering and are not involved in our merchant offering at all,” Mallers added.
+
+In January, it was [reported](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) that Visa had acquired Plaid, a financial services company, for $5.3 billion.
+
+> Plaid’s API software, often referred to as the “plumbing” behind fintech companies, lets start-ups connect to users’ bank accounts. It’s well-known among financial technology developers, but the average person interacting with it most likely wouldn’t recognize the name. High-profile Plaid customers include popular peer-to-peer payment app Venmo, mobile investing app Robinhood and cryptocurrency exchanges Coinbase and Gemini.
+
+Plaid's [privacy policy](https://plaid.com/legal/#end-user-privacy-policy) includes the following regarding their collection and processing of personal information:
+
+> When you connect your financial accounts with a developer application or otherwise connect your financial accounts through Plaid, where applicable, we collect identifiers and login information required by the provider of your account, such as your username and password, or a security token. In some cases, we also collect your phone number, email address, security questions and answers, and one-time password (OTP) to help verify your identity before connecting your financial accounts.
+
+> But, in general, we collect the following types of identifiers, commercial information, and other personal information from your financial product and service providers:
+>
+> Account information, including financial institution name, account name, account type, account ownership, branch number, IBAN, BIC, and account and routing number; Information about an account balance, including current and available balance; Information about credit accounts, including due dates, balances owed, payment amounts and dates, transaction history, credit limit, repayment status, and interest rate; Information about loan accounts, including due dates, repayment status, balances, payment amounts and dates, interest rate, guarantor, loan type, payment plan, and terms; Information about investment accounts, including transaction information, type of asset, identifying details about the asset, quantity, price, fees, and cost basis; Identifiers and information about the account owner(s), including name, email address, phone number, date of birth, and address information; Information about account transactions, including amount, date, payee, type, quantity, price, location, involved securities, and a description of the transaction; and Professional information, including information about your employer, in limited cases where you’ve connected your payroll accounts.
+>
+> The data collected from your financial accounts includes information from all your accounts (e.g., checking, savings, and credit card) accessible through a single set of account credentials.
+
+In addition to collecting similar "electronic network activity information," they also state that they "may use the information we collect about you to derive inferences. For example, we may infer your location or your projected income."
