@@ -60,7 +60,7 @@ While Visa is not mentioned in either the terms-of-service or privacy policy, th
 >
 > “They [Visa] are a partner for our consumer issuance offering and are not involved in our merchant offering at all,” Mallers added.
 
-In January, it was [reported](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) that Visa had acquired Plaid, a financial services company, for $5.3 billion.
+In January, it was [reported](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) that Visa had acquired Plaid, a financial technology company, for $5.3 billion.
 
 > Plaid’s API software, often referred to as the “plumbing” behind fintech companies, lets start-ups connect to users’ bank accounts. It’s well-known among financial technology developers, but the average person interacting with it most likely wouldn’t recognize the name. High-profile Plaid customers include popular peer-to-peer payment app Venmo, mobile investing app Robinhood and cryptocurrency exchanges Coinbase and Gemini.
 
@@ -75,3 +75,7 @@ Plaid's [privacy policy](https://plaid.com/legal/#end-user-privacy-policy) inclu
 > The data collected from your financial accounts includes information from all your accounts (e.g., checking, savings, and credit card) accessible through a single set of account credentials.
 
 In addition to collecting similar "electronic network activity information," they also state that they "may use the information we collect about you to derive inferences. For example, we may infer your location or your projected income."
+
+On July 1st, the [National Law Review](https://twitter.com/natlawreview) wrote about how Plaid is facing a class-action lawsuit filed by the [Lieff Cabraser Heimann & Bernstein law firm](https://www.lieffcabraser.com/2020/05/new-data-theft-class-action-by-users-of-venmo-stripe-and-payment-platforms-against-plaid-financial-alleges-violations-of-data-privacy-laws/) for violating "consumers’ reasonable expectations" of privacy. [Cottle et al. v. Plaid Inc.](https://www.classaction.org/media/cottle-et-al-v-plaid-inc.pdf) says that the founders of Plaid had the initial "intention of building a consumer-facing fintech app," but "by early 2013, however, they pivoted to building a behind-the-scenes data aggregator and data brokerage operation."
+
+> As early as February 2013, when Perret and Hockey introduced Plaid at the insular “NYC Data Business Meetup,” the co-founders made clear that Plaid’s true purpose is to monetize consumer transactional and other banking data. Collecting and aggregating data from financial institutions was merely the “table stakes,” as Plaid’s real goal was to “resolve data and make that something interesting.” They emphasized the “immense” amount of consumer spending data the company could collect from banks — going back up to five years — and the “awesome” things Plaid could do with the data.
