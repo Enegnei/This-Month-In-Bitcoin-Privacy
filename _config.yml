@@ -77,7 +77,7 @@ author:
       url: "https://twitter.com/J9Roem"
     - label: "Mastodon"
       url: "https://bitcoinhackers.org/@J9Roem"
-      icon: "fab fa-fw fa-paper-plane"
+      icon: "fas fa-paper-plane"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Enegnei"
