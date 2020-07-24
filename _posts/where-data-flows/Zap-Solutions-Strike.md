@@ -48,7 +48,7 @@ Cognito is a customer identity and business verification service for compliance 
 
 > By asking for as little as a name and phone number, Cognito can stitch together an identity record from powerful regulated data sources, instantaneously confirming if someone is who they say they are.
 
-While they are not trasparent about how they do this, Cognito does admit that they screen customers of financial services companies "[against lists of high-risk individuals issued by various government agencies around the globe](https://cognitohq.com/what-is-required-to-know-your-customer/)," including Politically Exposed Persons (PEPs) watchlists. Cognito's privacy policy states that they "use service providers and other third party services to help perform essential business functions on our behalf."
+While they are not transparent about how they do this, Cognito does admit that they screen customers of financial services companies "[against lists of high-risk individuals issued by various government agencies around the globe](https://cognitohq.com/what-is-required-to-know-your-customer/)," including Politically Exposed Persons (PEPs) watchlists. Cognito's privacy policy states that they "use service providers and other third party services to help perform essential business functions on our behalf."
 
 ## Visa and Plaid
 
