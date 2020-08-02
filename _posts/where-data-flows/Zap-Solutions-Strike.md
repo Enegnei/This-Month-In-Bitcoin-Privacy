@@ -1,3 +1,5 @@
+## Overview
+
 Strike is a consumer and merchant services application that allows people to make and receive Lightning payments with a bank account or debit card. While the [Zap wallet](https://zaphq.io/) is non-custodial and open-source, Strike is a custodial, regulated, and proprietary product of Zap Solutions Inc., entering public beta as of July 2nd 2020.
 
 > Zap holds all USD deposits with an FDIC banking partner which services “many cryptocurrency companies,” Mallers said. On the Bitcoin side, all transactions are handled by Zap using the infrastructure it erected for Olympus — so, the original tech stack is still being used, it’s just going on behind the scenes. This work behind the curtain “not only handles application and protocol interaction but also real-time risk management and automated trading/hedging,” Mallers said. ([Bitcoin Magazine](https://bitcoinmagazine.com/articles/with-strike-zap-rethinks-its-olympus-fiat-to-bitcoin-feature))
@@ -9,8 +11,6 @@ In his [announcement](https://medium.com/@JimmyMow/announcing-strike-public-beta
 The Strike [homepage](https://beta.strike.me/) describes their service as 'private.'
 
 > Strike is your payment proxy to the world. Your information is kept private and never shared.
-
-However, it is apparent that there is a striking dissonance between this marketing, the privacy policy, and their partnerships.
 
 ### Terms of Service
 
@@ -52,7 +52,7 @@ Cognito is a customer identity and business verification service for compliance 
 
 While they are not transparent about how they do this, Cognito does admit that they screen customers of financial services companies "[against lists of high-risk individuals issued by various government agencies around the globe](https://cognitohq.com/what-is-required-to-know-your-customer/)," including Politically Exposed Persons (PEPs) watchlists. Cognito's privacy policy states that they "use service providers and other third party services to help perform essential business functions on our behalf."
 
-## Visa and Plaid
+### Visa and Plaid
 
 While Visa is not mentioned in either the terms-of-service or privacy policy, the beta launch of Strike included a [press release](https://www.coindesk.com/bitcoin-startup-zap-is-working-with-visa) that Zap Solutions Inc. would be [partnering with Visa](https://partner.visa.com/homepage.html):
 
@@ -87,3 +87,7 @@ On July 1st, the [National Law Review](https://twitter.com/natlawreview) wrote a
 Another [class action complaint](https://www.courtlistener.com/recap/gov.uscourts.cand.362606/gov.uscourts.cand.362606.1.0.pdf), filed on July 17th by [Tostrud Law Group](http://tostrudlaw.com/) and [Glancy Prongay & Murray LLP](https://www.glancylaw.com/) on behalf of four plaintiffs who were customers of Venmo, makes very similar allegations.
 
 > Any consent that Plaid claims to have obtained from Plaintiffs and Class Members is further called into question by the fact that most consumers do not recognize  that Plaid is an entity distinct from the Participating App that they are using, or even — as Plaid boasts — that Plaid exists at all. Co-Founder Hockey has said in interviews that “most people will never know we exist.”[<sup>21</sup>](http://www.alumni.emory.edu/emorywire/issues/2013/august/of_interest/story_1/index.html) Perret has stated, “we don’t need every consumer to know what Plaid is.”[<sup>22</sup>](https://www.saastr.com/build-a-platform-ecosystem/) One of Plaid’s investors at Goldman Sachs Investment Partners told CNBC, “Plaid has quietly created a very big infrastructure without the consumer knowing that they’re powering it.”[<sup>23</sup>](https://www.cnbc.com/2018/10/04/meetthe-startup-that-powers-venmo-robinhood-and-other-big-apps.html)
+
+## Conclusion
+
+It is apparent that there is a striking dissonance between the app's marketing and presentation versus their actual terms of service, privacy policy, and partnerships. The term "KYC-lite" is applied to services which collect very little personally identifying information (PII), and particularly PII that could plausibly be non-identifying or even spoofted. While the app has thresholds to determine how much PII is required, the "lite" nature of the default setting functions only because a trusted third party utilizes external sources of identity information in the background, which the user is probably not aware of. Furthermore, going forward, given the controversial nature of Plaid, I would expect that their involvement and capacity for data collection to be transparently disclosed in the privacy policy.
