@@ -10,6 +10,8 @@ The Strike [homepage](https://beta.strike.me/) describes their service as 'priva
 
 > Strike is your payment proxy to the world. Your information is kept private and never shared.
 
+However, it is apparent that there is a striking dissonance between this marketing, the privacy policy, and their partnerships.
+
 ### Terms of Service
 
 Strike's [terms-of-service](https://beta.strike.me/tos) (ToS) includes the following regarding their privacy policy:
