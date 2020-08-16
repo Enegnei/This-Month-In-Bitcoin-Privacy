@@ -17,4 +17,4 @@ At this time I'm not interested in creating a subscribe function through the hon
 
 ---
 
-This webpage uses the Minimal Mistakes Jekyll theme by Michael Rose. Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This webpage uses the Minimal Mistakes Jekyll theme by Michael Rose. Click [**here**](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
