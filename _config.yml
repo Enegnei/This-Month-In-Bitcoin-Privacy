@@ -78,7 +78,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/J9Roem"
-    - lable: "Mastodon"
+    - label: "Mastodon"
       icon: "fas fa-paper-plane"
       url: "https://bitcoinhackers.org/@J9Roem"
     - label: "GitHub"
