@@ -14,6 +14,7 @@ At this time I'm not interested in creating a subscribe function through the hon
 
 + June 2020: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/)
 + July 2020: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/)
++ August 2020: [This Month in Bitcoin Privacy, 3rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/)
 
 ---
 
