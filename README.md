@@ -4,11 +4,11 @@
 
 ### Releases
 
-+ June 2020: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/)
-+ July 2020: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/)
-+ August 2020: [This Month in Bitcoin Privacy, 3rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/)
-+ September 2020: [This Month in Bitcoin Privacy, 4th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/September_2020/)
-+ October 2020: [This Month in Bitcoin Privacy, 5th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2020/)
++ June 2020: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/) (TMIBP01)
++ July 2020: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/) (TMIBP02)
++ August 2020: [This Month in Bitcoin Privacy, 3rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/) (TMIBP03)
++ September 2020: [This Month in Bitcoin Privacy, 4th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/September_2020/) (TMIBP04)
++ October 2020: [This Month in Bitcoin Privacy, 5th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2020/) (TMIBP05)
 
 At this time I'm not interested in creating a subscribe function through the honeypots known as email marketing services. Since several of them censor / block certain topics, including Bitcoin-related content, they wouldn't be very interested in me either anyway. Here are a few ways you can be notified about new editions:
 
