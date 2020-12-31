@@ -2,7 +2,7 @@
 
 **This Month in Bitcoin Privacy** is a newsletter about privacy-related technology developments, events, and conversations in Bitcoin. Issues are released at the end of each month.
 
-### Releases
+### Releases (2020)
 
 + June 2020: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/) (TMIBP01)
 + July 2020: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/) (TMIBP02)
@@ -11,6 +11,8 @@
 + October 2020: [This Month in Bitcoin Privacy, 5th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2020/) (TMIBP05)
 + November 2020: [This Month in Bitcoin Privacy, 6th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2020/) (TMIBP06)
 + December 2020: [This Month in Bitcoin Privacy, 7th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/December_2020/) (TMIBP07)
+
+### Releases (2021)
 
 At this time I'm not interested in creating a subscribe function through the honeypots known as email marketing services. Since several of them censor / block certain topics, including Bitcoin-related content, they wouldn't be very interested in me either anyway. Here are a few ways you can be notified about new editions:
 
