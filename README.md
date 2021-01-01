@@ -4,13 +4,13 @@
 
 ### Releases (2020)
 
-+ June 2020: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/) (TMIBP01)
-+ July 2020: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/) (TMIBP02)
-+ August 2020: [This Month in Bitcoin Privacy, 3rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/) (TMIBP03)
-+ September 2020: [This Month in Bitcoin Privacy, 4th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/September_2020/) (TMIBP04)
-+ October 2020: [This Month in Bitcoin Privacy, 5th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2020/) (TMIBP05)
-+ November 2020: [This Month in Bitcoin Privacy, 6th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2020/) (TMIBP06)
-+ December 2020: [This Month in Bitcoin Privacy, 7th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/December_2020/) (TMIBP07)
++ June: [This Month In Bitcoin Privacy, 1st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/) (TMIBP01)
++ July: [This Month in Bitcoin Privacy, 2nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/July_2020/) (TMIBP02)
++ August: [This Month in Bitcoin Privacy, 3rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2020/) (TMIBP03)
++ September: [This Month in Bitcoin Privacy, 4th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/September_2020/) (TMIBP04)
++ October: [This Month in Bitcoin Privacy, 5th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2020/) (TMIBP05)
++ November: [This Month in Bitcoin Privacy, 6th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2020/) (TMIBP06)
++ December: [This Month in Bitcoin Privacy, 7th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/December_2020/) (TMIBP07)
 
 ### Releases (2021)
 
