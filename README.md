@@ -14,6 +14,8 @@
 
 ### Releases (2021)
 
++ January: [This Month In Bitcoin Privacy, 8th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/January_2021/) (TMIBP08)
+
 At this time I'm not interested in creating a subscribe function through the honeypots known as email marketing services. Since several of them censor / block certain topics, including Bitcoin-related content, they wouldn't be very interested in me either anyway. Here are a few ways you can be notified about new editions:
 
 1. Follow me and / or this repository on GitHub. When a new edition comes out, I will link to it here in the readme. However, if you use this option, be aware that you may also be seeing all the changes I make throughout the month in your feed.
