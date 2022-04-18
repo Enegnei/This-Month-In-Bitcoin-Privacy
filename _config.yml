@@ -87,6 +87,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://einzelgaengerinmotte.wordpress.com/"
+    - label: "PayNym"
+      icon: "fa fa-btc"
+      url: "https://paynym.is/+shyunit1fD"
 
 footer:
 
