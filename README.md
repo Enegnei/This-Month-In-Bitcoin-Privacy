@@ -1,6 +1,6 @@
 # This Month in Bitcoin Privacy Newsletter
 
-**This Month in Bitcoin Privacy** is a newsletter about privacy-related technology developments, events, and conversations in Bitcoin. Issues are released at the end of each month.
+**This Month in Bitcoin Privacy** is a newsletter about privacy-related technology developments, events, and conversations in Bitcoin. Issues are (ideally) released at the end of each month.
 
 ### Releases (2020)
 
