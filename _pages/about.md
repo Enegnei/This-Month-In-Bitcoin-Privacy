@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-> **"** Another caped nerd for peace, justice, and privacy. **"**
+> **"** Another caped nerd for peace, justice, and privacy.**"**
 >
 > — Judith Milhon, a.k.a. St. Jude (1993)
 
