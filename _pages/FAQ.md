@@ -13,3 +13,9 @@ Bitcoin privacy can be about hiding or refraining from producing and sharing dat
 
 When I started my newsletter, I knew I needed images, but I didn't want to go with the standard Bitcoin-related media kit, like golden 'B' coins, raining Matrix code, or 'Men In Hoodies.' Somehow I got the idea to input a photo of a moth with eyespots into a Google reverse image search, which returns similar-looking pictures. The results to my query were mostly human faces, and I found it hilarious that the moth's defense strategy had worked against an image recognition AI (for now). That moth was featured in [my first newsletter](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/June_2020/).
 {: style="text-align: justify;"}
+
+Moths also make an appearance in computer history:
+
+> As computers got better, they got cheaper, but one more thing had to happen before their use could extend to the everyday life of such nonspecialists as journalists. They had to be made easy to use. That is where Admiral Grace Murray Hopper earned her place in computer history. (One of her contributions was being the first person to debug a computer: When the Mark I broke down one day in 1945, she traced the problem to a dead moth caught in a relay switch.)
+>
+> — "[Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.goodreads.com/book/show/1370741.Precision_Journalism)" by Philip Meyer (Fourth Edition, 2002)
