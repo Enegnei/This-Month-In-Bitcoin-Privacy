@@ -32,6 +32,10 @@
 + August: [This Month In Bitcoin Privacy, 20th Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/August_2022/) (TMIBP20)
 + November: [This Month In Bitcoin Privacy, 21st Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2022/) (TMIBP21)
 
+### Releases (2023)
+
++ April: [This Month In Bitcoin Privacy, 22nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/April_2023/) (TMIBP22)
+
 ## Subscribing to Newsletter
 
 At this time I'm not interested in creating a subscribe function through the honeypots known as email marketing services. Since several of them censor / block certain topics, including Bitcoin-related content, they wouldn't be very interested in me either anyway. Here are a few ways you can be notified about new editions:
