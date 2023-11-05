@@ -35,6 +35,7 @@
 ### Releases (2023)
 
 + April: [This Month In Bitcoin Privacy, 22nd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/April_2023/) (TMIBP22)
++ October: [This Month In Bitcoin Privacy, 23rd Issue](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/October_2023/) (TMIBP23)
 
 ## Subscribing to Newsletter
 
