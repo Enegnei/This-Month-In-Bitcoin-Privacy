@@ -1,1 +1,1 @@
-![Bio Photo](https://enegnei.github.io/thatoneprivacygirl/assets/img/logo.png)
+![Bio Photo](https://avatars.githubusercontent.com/u/15363282?v=4.jpeg)
